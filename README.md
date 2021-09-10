@@ -42,7 +42,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![EcommerceBackEnd Screen Shot][product-screenshot]](https://example.com)
+[![EcommerceBackEnd Screen Shot](./Usage.gif)
+
+Usage Video: https://drive.google.com/file/d/1uekkDmn-I6Yr90qlfF8AHPuGO1ayIlqO/view
 
 
 
